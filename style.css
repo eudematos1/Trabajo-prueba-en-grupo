@@ -83,10 +83,10 @@ p {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 40px;
-    border: 2px solid #1eb03b;
+    border: 2px solid #105540;
     color: #fff;
     text-decoration: none;
-    background: #1eb03b;
+    background: #105540;
 }
 
 .btn:hover {
@@ -141,7 +141,7 @@ p {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    background: #1eb03b;
+    background: #105540;
     font-size: 2rem;
     margin: 1rem 0;
 
@@ -149,7 +149,7 @@ p {
 
 .box-container .box h3 {
     font-size: 20px;
-    color: #1eb03b;
+    color: #105540;
 
 }
 
