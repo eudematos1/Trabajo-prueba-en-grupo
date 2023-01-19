@@ -59,7 +59,7 @@ body {
 }
 
 .header {
-    height: 60vh !important;
+    height: 60vh ;
     background: url(atras\ xd.PNG) no-repeat center;
     background-size: cover;
 }
@@ -104,7 +104,7 @@ p {
 
 
 .content {
-    height: 50vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -112,7 +112,7 @@ p {
 }
 
 .sau {
-    padding: 30px;
+    padding: 40px;
     background: #1f1d1d
 }
 
